@@ -18,5 +18,11 @@ public static void main(String[] args) {
 	
 	System.out.println("is: " + "())}}{{(]][[]]" + "Balanced?" + CheckBrackets.isBalanced("())}}{{(]][[]][["));
 	
+	System.out.println("Fibonnacci1 1->: "+ Fibonacci.fib(1));
+	System.out.println("Fibonnacci1 2->: "+ Fibonacci.fib(2));
+	System.out.println("Fibonnacci1 3->: "+ Fibonacci.fib(3));
+	System.out.println("Fibonnacci1 4->: "+ Fibonacci.fib(4));
+	System.out.println("Fibonnacci1 8->: "+ Fibonacci.fib(8));
+	
 }
 }
