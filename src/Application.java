@@ -24,5 +24,11 @@ public static void main(String[] args) {
 	System.out.println("Fibonnacci1 4->: "+ Fibonacci.fib(4));
 	System.out.println("Fibonnacci1 8->: "+ Fibonacci.fib(8));
 	
+	System.out.println("Fibonnacci1Recursive 1->: "+ FibonacciRecursive.fibrec(1));
+	System.out.println("Fibonnacci1Recursive 2->: "+ FibonacciRecursive.fibrec(2));
+	System.out.println("Fibonnacci1Recursive 3->: "+ FibonacciRecursive.fibrec(3));
+	System.out.println("Fibonnacci1Recursive 4->: "+ FibonacciRecursive.fibrec(4));
+	System.out.println("Fibonnacci1Recursive 8->: "+ FibonacciRecursive.fibrec(8));
+	
 }
 }
